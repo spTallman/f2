@@ -26,8 +26,8 @@ Rscript f2_alleles.R test.doubletons.matrix test.ids test.f2
 
 The resulting output should be:
 
-POP1	POP1	63
-POP2	POP1	69
-POP2	POP2	76
+POP1	POP1	63  
+POP2	POP1	69  
+POP2	POP2	76  
 
 This shows there are 63 doubletons shared within POP1, 76 within POP2 and 69 between POP1 and POP2.
